@@ -1,0 +1,7 @@
+ini adalah rincian terbaru
+html dan css
+github
+js
+php
+mySql
+laravel
